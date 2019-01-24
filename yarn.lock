@@ -3030,10 +3030,10 @@ clay-component@^2.7.0:
     metal-dom "^2.16.0"
     metal-state "^2.16.0"
 
-clay-css@2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/clay-css/-/clay-css-2.6.0.tgz#42f60504a0a6e7c9439e2b2c3c427b889d8115a7"
-  integrity sha512-m+1EZRZUNvH+E0TFgYnPzqaCVM85KgLuYI6xVXH9xJKmUpCfsqL5rY2N7f+qhGCovHv04nw+BF50syw35fW2fw==
+clay-css@2.7.0:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/clay-css/-/clay-css-2.7.0.tgz#21566f9dbee06c9aea73be9441f1b17b3724e7be"
+  integrity sha512-YNftxy62mp5xfnU/zTnYj39tVDmYzlf8Xqt6aV2PyXlXbGY7O3N0SGXRpkrAtASiEuCwHHbeeSYbLtM6k4ddkw==
 
 clay-dropdown@2.6.0:
   version "2.6.0"
