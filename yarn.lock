@@ -2957,26 +2957,26 @@ clay-badge@2.7.0:
     metal-state "^2.16.0"
     metal-web-component "^2.16.0"
 
-clay-button@2.6.0, clay-button@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/clay-button/-/clay-button-2.6.0.tgz#7974a840d73ce65491e5f41ded74add1da80ddff"
-  integrity sha512-sEwYY6Wr9KDXn0ekoqjW03KycGbFlVerxycFonf6/oJCfzdhw453Kamam9pftH8fotyTKtjZ+JdSyLwv57z8Zw==
-  dependencies:
-    clay-component "^2.6.0"
-    clay-icon "^2.6.0"
-    metal "^2.16.0"
-    metal-component "^2.16.0"
-    metal-soy "^2.16.0"
-    metal-state "^2.16.0"
-    metal-web-component "^2.16.0"
-
-clay-button@^2.7.0:
+clay-button@2.7.0, clay-button@^2.7.0:
   version "2.7.0"
   resolved "https://registry.yarnpkg.com/clay-button/-/clay-button-2.7.0.tgz#35aa68994eb986ba261fae87840cd5aca2678eef"
   integrity sha512-/AErNVgWlKk2zhDF7EyANkqGJO7dJoDkm4BY92SCFLuIw1WVR/ighAl+bUcOoEbK+t9tpLt9lR7zAh2w+YxWNg==
   dependencies:
     clay-component "^2.7.0"
     clay-icon "^2.7.0"
+    metal "^2.16.0"
+    metal-component "^2.16.0"
+    metal-soy "^2.16.0"
+    metal-state "^2.16.0"
+    metal-web-component "^2.16.0"
+
+clay-button@^2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/clay-button/-/clay-button-2.6.0.tgz#7974a840d73ce65491e5f41ded74add1da80ddff"
+  integrity sha512-sEwYY6Wr9KDXn0ekoqjW03KycGbFlVerxycFonf6/oJCfzdhw453Kamam9pftH8fotyTKtjZ+JdSyLwv57z8Zw==
+  dependencies:
+    clay-component "^2.6.0"
+    clay-icon "^2.6.0"
     metal "^2.16.0"
     metal-component "^2.16.0"
     metal-soy "^2.16.0"
